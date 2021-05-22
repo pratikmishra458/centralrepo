@@ -4,3 +4,10 @@ public static void main (String[] args[C
 {
 System.out.println("Dil e nadaan tuhe hua kya hai");
 }}
+class C
+{
+public static void main(String[] args)
+{
+System.out.println("Adding data from singapore to mumbai file at mumbaigit by pulling");
+}
+}
