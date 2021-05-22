@@ -11,3 +11,10 @@ public static void main(String[] args)
 System.out.println("Adding data from singapore to mumbai file at mumbaigit by pulling");
 }
 }
+class D
+{
+public static oid main (String[] args)
+{
+System.out.println("adding new code from muaigit by pulling the nibedita mishra code");
+}
+}
