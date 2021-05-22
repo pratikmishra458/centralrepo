@@ -1,7 +1,6 @@
-class A
+class B
 {
- public static void main(String[] args)
+public static void main (String[] args[C
 {
-System.out.println("welcome to devops");
-}
-}
+System.out.println("Dil e nadaan tuhe hua kya hai");
+}}
